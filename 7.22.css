@@ -1,0 +1,61 @@
+			.Header {
+				background-color: lightblue;
+				text-align: center;
+				font-size: 30px;
+				border: 1px solid blue;
+				height: 10%;
+				right: 1%;
+				left: 1%;
+				padding: 5px;
+				position: absolute;
+			}
+			.Aside {
+				background-color: lightblue;
+				border: 1px solid blue;
+				font-size: 50px;				
+				height: 70%;
+				width: 18%;
+				right: 1%;
+				top: 15%;
+				padding: 5px;
+				 overflow: hidden;
+				position: absolute;
+			}
+			
+			.Nav {
+				background-color: lightblue;
+				border: 1px solid blue;
+				font-size: 20px;
+				height: 55%;
+				width: 18%;
+				top: 15%;
+				left: 1%;
+				padding: 5px;
+				overflow: auto;
+				position: absolute;
+			}
+			
+			.Footer {
+				background-color: lightblue;
+				border: 1px solid blue;
+				font-size: 20px;
+				height: 8%;
+				bottom: 1%;
+				left: 1%;
+				right: 1%;
+				text-align: center;
+				padding: 5px;
+				position: absolute;
+			}
+			
+			.Main {
+				background-color: lightblue;
+				border: 1px solid blue;
+				top: 15%;
+				width: 55%;
+				height: 70%;
+				right: 22%;
+				padding: 5px;
+				overflow: scroll;
+				position: absolute;
+			}

@@ -1,0 +1,122 @@
+			Header {
+				color: white;
+				background-color: black;
+				text-align: center;
+				font-size: 17px;
+				border: 1px solid black;
+				height: 12%;
+				right: 1%;
+				left: 1%;
+				padding: 5px;
+				font-weight: bold;
+				font-family: Arial, Helvetica, serif;
+				position: absolute;
+				background-image: url("https://cdn.pixabay.com/photo/2016/11/09/15/27/dna-1811955_1280.jpg");
+				
+			}
+			
+			a {
+				color: white;
+				font-size: 17px;
+				
+			}
+			
+		
+			Aside {
+				color: white;
+				background-color: black;
+				border: 1px solid lightblue;				
+				height: 71%;
+				width: 18%;
+				right: 1%;
+				top: 16%;
+				padding: 5px;
+				overflow: hidden;
+				font-style: italic;
+				position: absolute;
+				background-image: url("")
+			}
+			
+			.Nav1 {
+				color: white;
+				background-color: black;
+				border: 1px solid lightblue;
+				font-size: 17px;
+				height: 35%;
+				width: 18%;
+				top: 16%;
+				left: 1%;
+				padding: 5px;
+				overflow: visible;
+				text-align: center;
+				font-weight: bold;
+				font-style: italic;
+				position: absolute;
+				background-image: url("https://cdn.pixabay.com/photo/2019/08/15/17/46/atom-4408563_1280.jpg");
+				background-size: 500px;
+			
+			}
+			
+			.Nav {
+				color: white;
+				background-color: black;
+				border: 1px solid lightblue;
+				font-size: 13px;
+				height: 34%;
+				width: 18%;
+				top: 53%;
+				left: 1%;
+				padding: 5px;
+				overflow: visible;
+				text-align: center;
+				font-style: italic;
+				position: absolute;
+				background-image: url("https://cdn.pixabay.com/photo/2016/04/27/11/56/nobel-prize-1356450_960_720.jpg");
+				background-size: 300px;
+				background-position: center;
+			}
+			
+			Footer {
+				color: white;
+				background-color: black;
+				border: 1px black;
+				font-size: 20px;
+				height: 8%;
+				bottom: 1%;
+				left: 1%;
+				right: 1%;
+				text-align: center;
+				padding: 5px;
+				font-family: Arial, Helvetica, serif;
+				position: absolute;
+				background-image: url("https://cdn.pixabay.com/photo/2016/11/09/15/27/dna-1811955_1280.jpg");
+			}
+			
+			Main {
+				background-color: black;
+				border: 1px solid black;
+				top: 16%;
+				width: 59%;
+				height: 71%;
+				right: 20%;
+				padding: 5px;
+				overflow: scroll;
+				font-family: Arial, Helvetica, serif;
+				position: absolute;
+				
+			}
+			
+			img {
+				float: right;
+				
+			}
+			
+			
+			body {
+				color: White;
+				background-color: gray;
+				background-image: url("");
+			}
+			
+			
+			
